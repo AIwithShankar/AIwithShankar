@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Shankar Maheshwari
 
-### AI Learner • Developer • Tech Explorer
+### AI Student • Developer • Tech Explorer
 
 Passionate BTech CSE (AI) student who loves building projects, solving problems, and learning modern technologies.  
 Currently focused on Python, AI, Web Development & DSA.
