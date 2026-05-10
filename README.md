@@ -67,7 +67,7 @@ HTML, CSS, JavaScript, PHP, MySQL
 
 - Email: shankarmaheshwari950@gmail.com
 - LinkedIn: linkedin.com/in/shankar-maheshwari
-- GitHub: github.com/Shankar5577
+- GitHub: github.com/AIwithShankar
 
 ---
 
