@@ -59,7 +59,8 @@ HTML, CSS, JavaScript, PHP, MySQL
 
 # 🏅 Certifications
 
-- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Azure Fundamentals (AZ-900) Training Program – Parul University
+- NPTEL Elite Certification in Computer Networks and Internet Protocol – NPTEL (66%)
 
 ---
 
