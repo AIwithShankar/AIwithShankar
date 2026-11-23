@@ -62,7 +62,7 @@ Python, LightGBM, scikit-learn, FastAPI, React.js, Tailwind CSS, Supabase, Postg
 
 ---
 
-# # 🏅 Certifications
+# 🏅 Certifications
 
 - **Oracle Certified Associate – Agentic AI Foundations** | Oracle (2026)
 - **Wipro Data Science Certification Program** | Wipro – 3-Month College-Facilitated Program (2026)
