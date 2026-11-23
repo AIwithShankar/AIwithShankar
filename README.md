@@ -9,11 +9,11 @@ Currently focused on Python, AI, Web Development & DSA.
 
 # 🌌 About Me
 
-- BTech CSE (Artificial Intelligence) Student  
-- Studying at Parul University, Vadodara  
-- Interested in AI, Software Development & Open Source  
-- Learning Data Structures & Advanced Python  
-- Turning ideas into real-world projects  
+- BTech CSE (Artificial Intelligence) Student
+- Studying at Parul University, Vadodara
+- Interested in AI, Software Development & Open Source
+- Learning Data Structures & Advanced Python
+- Turning ideas into real-world projects
 
 ---
 
@@ -41,34 +41,41 @@ Currently focused on Python, AI, Web Development & DSA.
 
 # 🚀 Featured Project
 
-## Online Watches E-Commerce Website
+## SLA Guardian AI – Intelligent SLA Breach Prediction System
 
-Full-stack e-commerce platform for watches.
+An AI-powered B2B customer support platform designed to predict Service Level Agreement (SLA) breaches, identify high-risk support tickets, and help teams prioritize customer issues before deadlines are missed.
 
 ### Features
-- User Authentication
-- Shopping Cart
-- Product Management
-- Responsive UI
-- Database Integration
+- **AI-Powered SLA Prediction:** Uses a LightGBM machine learning model to predict potential SLA breaches.
+- **Risk Identification:** Classifies support tickets based on their predicted breach risk.
+- **Interactive Dashboard:** React-based dashboard for monitoring support tickets and identifying high-risk cases.
+- **REST API Integration:** FastAPI backend for processing ticket information and serving ML predictions.
+- **User Authentication:** Secure user authentication using Supabase.
+- **Database Integration:** Supabase PostgreSQL for managing support ticket data.
+- **ML Explainability:** SHAP-based explanations to help interpret model predictions.
 
 ### Built With
-HTML, CSS, JavaScript, PHP, MySQL
+Python, LightGBM, scikit-learn, FastAPI, React.js, Tailwind CSS, Supabase, PostgreSQL, SHAP
+
+### GitHub Repository
+[github.com/AIwithShankar/SLA-Guardian-AI](https://github.com/AIwithShankar/SLA-Guardian-AI)
 
 ---
 
-# 🏅 Certifications
+# # 🏅 Certifications
 
-- Microsoft Azure Fundamentals (AZ-900) Training Program – Parul University
-- NPTEL Elite Certification in Computer Networks and Internet Protocol – NPTEL (66%)
-
+- **Oracle Certified Associate – Agentic AI Foundations** | Oracle (2026)
+- **Wipro Data Science Certification Program** | Wipro – 3-Month College-Facilitated Program (2026)
+- **Microsoft Azure Fundamentals (AZ-900) Training Program** | Parul University
+- **NPTEL Elite Certification – Computer Networks and Internet Protocol** | NPTEL, IIT Kharagpur (66%)
+- **Certificate of Participation & Achievement – ABHYUDAY 2023** | 18th ISTE Gujarat State Annual Students Convention
 ---
 
 # 🌐 Connect With Me
 
-- Email: shankarmaheshwari950@gmail.com
-- LinkedIn: linkedin.com/in/shankar-maheshwari
-- GitHub: github.com/AIwithShankar
+- **Email:** shankarmaheshwari950@gmail.com
+- **LinkedIn:** [linkedin.com/in/shankar-maheshwari](https://linkedin.com/in/shankar-maheshwari)
+- **GitHub:** [github.com/AIwithShankar](https://github.com/AIwithShankar)
 
 ---
 
